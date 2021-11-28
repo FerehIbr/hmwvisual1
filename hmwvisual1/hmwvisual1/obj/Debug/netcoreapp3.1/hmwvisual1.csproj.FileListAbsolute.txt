@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\bin\Debug\netcoreapp3.1\hmwvisual1.exe
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\bin\Debug\netcoreapp3.1\hmwvisual1.deps.json
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\bin\Debug\netcoreapp3.1\hmwvisual1.runtimeconfig.json
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\bin\Debug\netcoreapp3.1\hmwvisual1.runtimeconfig.dev.json
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\bin\Debug\netcoreapp3.1\hmwvisual1.dll
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\bin\Debug\netcoreapp3.1\hmwvisual1.pdb
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\obj\Debug\netcoreapp3.1\hmwvisual1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\obj\Debug\netcoreapp3.1\hmwvisual1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\obj\Debug\netcoreapp3.1\hmwvisual1.AssemblyInfo.cs
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\obj\Debug\netcoreapp3.1\hmwvisual1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\obj\Debug\netcoreapp3.1\hmwvisual1.dll
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\obj\Debug\netcoreapp3.1\hmwvisual1.pdb
+C:\Users\user\Desktop\HMvisual1\hmwvisual1\hmwvisual1\obj\Debug\netcoreapp3.1\hmwvisual1.genruntimeconfig.cache
